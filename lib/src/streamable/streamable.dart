@@ -1,4 +1,4 @@
 /// Simple abstract class that adds a stream of type `T` named [stream].
-abstract class Stremable<T> {
+abstract class Streamable<T> {
   Stream<T> get stream;
 }
