@@ -1,6 +1,6 @@
 name: interfaces
 description: A set of common interfaces for Dart classes. Made mostly for internal usage.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/nivisi/interfaces
 repository: https://github.com/nivisi/interfaces
 issue_tracker: https://github.com/nivisi/interfaces/issues
