@@ -10,4 +10,4 @@ environment:
 
 dependencies:
   lint: ^1.5.3
-  meta: ^1.8.0
+  meta: ^1.0.0
