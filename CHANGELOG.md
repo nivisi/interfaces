@@ -1,3 +1,7 @@
+## 0.0.4
+
+Use `meta` of version 1.0.0
+
 ## 0.0.3
 
 Fix typos
